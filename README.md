@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Thanks for visiting. You can find my bio here https://mtorabirad.com/
 <!--
 **mtorabirad/mtorabirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
